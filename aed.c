@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//EQUIPE Cicero Victor de Oliveira Garcia e Francio Xavier
+
 
 // Definição da estrutura de nó para a fila
 typedef struct Node {
