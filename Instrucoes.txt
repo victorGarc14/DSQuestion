@@ -1,0 +1,5 @@
+1- Abra o arquivo .c com o código em um compilador de C de sua preferência(para este código utilizamos um compilador online https://www.onlinegdb.com/online_c_compiler);
+2- Após isso execute o programa;
+3- O programa solicitará que você insira o número de minutos (n), a capacidade máxima de atendimento (k) e o vetor binário V. Digite esses valores conforme solicitado;
+4- Após isso, o programa calculará o número de carros lavados até o n-ésimo minuto e exibirá o resultado no terminal;
+5- Quando a execução terminar, você pode fechar o programa.
